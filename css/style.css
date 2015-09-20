@@ -1,3 +1,22 @@
 body {
     text-align: center;
+    background-color: #F0E68C;
+}
+h1 {
+    color: #993333;
+    font-size: 40px;
+}
+h3 {
+    color: #009933;
+    font-size: 35px;
+}
+span {
+    color: #993333;
+    font-size: 30px;
+}
+#health {
+    color: #009933;
+}
+#scoreboard {
+    color: #009933;
 }
